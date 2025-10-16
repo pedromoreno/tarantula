@@ -5,9 +5,7 @@ import Link from 'next/link'
 export function Header() {
   return (
     <header className="mb-8 flex items-center justify-between">
-      <div className="flex items-center gap-2">
-        <img src="/logo_negro.png" alt="Tarantula Studio" className="h-6 w-auto dark:hidden" />
-        <img src="/logo_blanco.png" alt="Tarantula Studio" className="hidden h-6 w-auto dark:block" />
+      <div>
         <Link href="/" className="font-medium text-black dark:text-white">
           Tarantula Studio
         </Link>

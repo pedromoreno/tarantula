@@ -51,6 +51,10 @@ export default function RootLayout({
         >
           <div className="flex min-h-screen w-full flex-col font-[family-name:var(--font-inter-tight)]">
             <div className="relative mx-auto w-full max-w-screen-sm flex-1 px-4 pt-20">
+              <div className="flex items-center gap-2 pb-4">
+                <img src="/logo_negro.png" alt="Tarantula Studio" className="h-6 w-auto dark:hidden" />
+                <img src="/logo_blanco.png" alt="Tarantula Studio" className="hidden h-6 w-auto dark:block" />
+              </div>
               <Header />
               {children}
               <Footer />
