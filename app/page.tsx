@@ -137,8 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
+            Desarrollo de software, web, diseño gráfico, inteligencia artificial, soporte ténico y fotografía. Soluciones integrales que combinan tecnología y creatividad para llevar tu proyecto al siguiente nivel.
           </p>
         </div>
       </motion.section>
