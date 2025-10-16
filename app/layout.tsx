@@ -21,6 +21,34 @@ export const metadata: Metadata = {
     template: '%s | Tarantula Studio'
   },
   description:  'Tarantula Studio — Desarrollo de software, web, diseño gráfico, IA, soporte técnico y fotografía.',
+  openGraph: {
+    title: 'Tarantula Studio',
+    description:
+      'Tarantula Studio — Desarrollo de software, web, diseño gráfico, IA, soporte técnico y fotografía.',
+    url: '/',
+    siteName: 'Tarantula Studio',
+    images: [
+      {
+        url: '/cover.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Tarantula Studio',
+      },
+    ],
+    locale: 'es_ES',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Tarantula Studio',
+    description:
+      'Tarantula Studio — Desarrollo de software, web, diseño gráfico, IA, soporte técnico y fotografía.',
+    images: ['/cover.jpg'],
+  },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+  },
 };
 
 const geist = Geist({
