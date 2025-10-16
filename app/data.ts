@@ -92,7 +92,7 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Fotografías',
-    link: 'https://pedromoreno.pixieset.com',
+    link: 'https://pedromoreno.mypixieset.com',
   },
   {
     label: 'Twitter',
