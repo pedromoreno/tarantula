@@ -51,7 +51,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'CEO, Desarrollador, Técnico Informático y fotógrafo',
     start: '2020',
     end: 'Presente',
-    link: 'https://ibelick.com',
+    link: '/blog/conecta',
     id: 'work1',
   },
   {
@@ -59,7 +59,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Técnico Informático y Desarrollador Web',
     start: '2005',
     end: '2007',
-    link: 'https://ibelick.com',
+    link: '/blog/conecta',
     id: 'work2',
   },
   {
@@ -67,7 +67,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Técnico Informático y Desarrollador Web',
     start: '2001',
     end: '2005',
-    link: 'https://ibelick.com',
+    link: '/blog/conecta',
     id: 'work3',
   },
 ]
