@@ -46,8 +46,8 @@ export const metadata: Metadata = {
     images: ['/logo_negro.png'],
   },
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
+    icon: '/logo_negro.png',
+    shortcut: '/logo_negro.png',
   },
 };
 
