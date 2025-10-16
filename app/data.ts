@@ -31,7 +31,9 @@ export const PROJECTS: Project[] = [
   {
     name: 'WEA Scout Pro',
     description:
-      'Aplicación multidispositivo de scouting y análisis deportivo con inteligencia artificial.',
+      'Aplicación integral de gestión y análisis futbolístico, diseñada para clubes, entrenadores y ojeadores. Combina herramientas de scouting, control de rendimiento, estadísticas avanzadas e inteligencia artificial en una experiencia multidispositivo, intuitiva y visual.
+
+Su objetivo es ofrecer una visión completa del juego, desde la detección de talento hasta el seguimiento táctico y físico de los jugadores, centralizando toda la información deportiva en un solo entorno digital.',
     link: 'https://pro.motion-primitives.com/',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
