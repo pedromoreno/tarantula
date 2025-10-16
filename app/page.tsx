@@ -249,7 +249,7 @@ export default function Personal() {
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
       >
-        <h3 className="mb-5 text-lg font-medium">Contacto</h3>
+        <h3 className="mb-5 text-lg font-medium">Conecta</h3>
         <p className="mb-5 text-zinc-600 dark:text-zinc-400">
           Contáctame en{' '}
           <a className="underline dark:text-zinc-300" href={`mailto:${EMAIL}`}>
