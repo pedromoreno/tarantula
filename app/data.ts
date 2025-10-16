@@ -48,7 +48,7 @@ export const PROJECTS: Project[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Tarantula Studio',
-    title: 'CEO, Desarrollador, Técnico Informático y fotógrafo',
+    title: 'CEO, Desarrollador, Técnico Informático y Fotógrafo',
     start: '2010',
     end: 'Presente',
     link: '/blog/conecta',
