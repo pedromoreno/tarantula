@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
     description:
       'Aplicación multidispositivo de gestión y análisis futbolístico con inteligencia artificial, que centraliza scouting, rendimiento y estadísticas para ofrecer una visión completa del juego.',
     link: 'https://pro.motion-primitives.com/',
-    image: '/cover.jpg',
+    image: '/proyecto1.png',
     id: 'project1',
   },
   {
