@@ -38,7 +38,7 @@ export const PROJECTS: Project[] = [
   },
   {
     name: 'Futplay 360',
-    description: 'Plataforma multidispositivo de formación en fútbol con inteligencia artificial, que ofrece cursos profesionales de scouting, dirección deportiva y análisis de juego con una experiencia moderna y accesible.',
+    description: 'Plataforma multidispositivo de formación en fútbol, que ofrece cursos profesionales de scouting, dirección deportiva y análisis de juego con una experiencia moderna y accesible.',
     link: 'https://motion-primitives.com/',
     image: '/proyecto2.png',
     id: 'project2',
