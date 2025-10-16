@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     siteName: 'Tarantula Studio',
     images: [
       {
-        url: '/cover.jpg',
+        url: '/logo_negro.png',
         width: 1200,
         height: 630,
         alt: 'Tarantula Studio',
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     title: 'Tarantula Studio',
     description:
       'Tarantula Studio — Desarrollo de software, web, diseño gráfico, IA, soporte técnico y fotografía.',
-    images: ['/cover.jpg'],
+    images: ['/logo_negro.png'],
   },
   icons: {
     icon: '/favicon.ico',
