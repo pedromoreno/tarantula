@@ -76,6 +76,20 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    title: 'Mundopan, impresión de tickets en tiempo real',
+    description:
+      'Automatización para una panadería: App web con impresión de tickets en tiempo real. Solución híbrida que integra Supabase, Node.js y impresoras térmicas.',
+    link: '/blog/mundopan-solucion-problema-dificil',
+    uid: 'blog-mundopan',
+  },
+  {
+    title: 'Asociación Cultural Impresiones, un espacio digital para la cultura',
+    description:
+      'Creando un espacio digital para la cultura: Blog de la Asociación Cultural Impresiones. Plataforma WordPress para difusión cultural local con diseño minimalista y gestión colaborativa.',
+    link: '/blog/asociacion-cultural-impresiones',
+    uid: 'blog-impresiones',
+  },
+  {
     title: 'Exploring the Intersection of Design, AI, and Design Engineering',
     description: 'How AI is changing the way we design',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
