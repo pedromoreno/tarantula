@@ -49,7 +49,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Tarantula Studio',
     title: 'CEO, Desarrollador, Técnico Informático y fotógrafo',
-    start: '2020',
+    start: '2010',
     end: 'Presente',
     link: '/blog/conecta',
     id: 'work1',
