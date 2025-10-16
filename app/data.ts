@@ -32,14 +32,14 @@ export const PROJECTS: Project[] = [
     name: 'WEA Scout Pro',
     description:
       'Aplicación multidispositivo de gestión y análisis futbolístico con inteligencia artificial, que centraliza scouting, rendimiento y estadísticas para ofrecer una visión completa del juego.',
-    link: 'https://pro.motion-primitives.com/',
+    link: '/conecta',
     image: '/proyecto1.png',
     id: 'project1',
   },
   {
     name: 'Futplay 360',
     description: 'Plataforma multidispositivo de formación en fútbol, que ofrece cursos profesionales de scouting, dirección deportiva y análisis de juego con una experiencia moderna y accesible.',
-    link: 'https://motion-primitives.com/',
+    link: '/conecta',
     image: '/proyecto2.png',
     id: 'project2',
   },
