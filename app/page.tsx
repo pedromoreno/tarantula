@@ -119,6 +119,10 @@ export default function Personal() {
       initial="hidden"
       animate="visible"
     >
+      <div className="pt-2">
+        <img src="/logo_negro.png" alt="Tarantula Studio" className="h-10 w-auto dark:hidden" />
+        <img src="/logo_blanco.png" alt="Tarantula Studio" className="hidden h-10 w-auto dark:block" />
+      </div>
       <motion.section
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
