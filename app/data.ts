@@ -87,6 +87,13 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/asociacion-cultural-impresiones',
     uid: 'blog-impresiones',
   },
+  {
+    title: '3D Shop Jerez: comercio digital con impacto local',
+    description:
+      'Tienda online con enfoque local en Jerez, preparada para crecer más allá',
+    link: '/blog/3d-shop-jerez',
+    uid: 'blog-3d-shop-jerez',
+  },
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
