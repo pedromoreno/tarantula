@@ -1,14 +1,18 @@
-# 🥖 Automatización para una panadería: App web con impresión de tickets en tiempo real
+#  Automatización para una panadería: App web con impresión de tickets en tiempo real
 
 En Tarantula Studio me gusta enfrentar retos reales con soluciones prácticas. Uno de mis proyectos recientes ha sido el desarrollo de una aplicación web para una panadería, diseñada para optimizar su flujo de pedidos e integrar la impresión automática de tickets en el punto de venta.
 
-## 💡 El desafío
+<hr />
+
+##  El desafío
 
 La panadería necesitaba un sistema ágil para gestionar pedidos online y que estos se imprimieran de forma inmediata en la impresora del mostrador, sin intervención manual. El objetivo era claro: evitar retrasos, reducir errores y mantener el ritmo de trabajo durante las horas punta.
 
 El principal reto técnico surgió con la impresión automática desde el navegador, una tarea que los navegadores modernos restringen por seguridad. Esto me llevó a desarrollar una solución híbrida, combinando una app web conectada a Supabase (base de datos y backend en tiempo real) con un script local en Node.js encargado de escuchar los nuevos pedidos e imprimirlos directamente en la impresora térmica POS.
 
-## ⚙️ La solución técnica
+<hr />
+
+##  La solución técnica
 
 El sistema completo se compone de tres partes:
 
@@ -23,13 +27,17 @@ Un proceso local que escucha los cambios en Supabase y envía el ticket directam
 
 El script se mantiene en ejecución continua y puede reiniciarse automáticamente en caso de error, garantizando estabilidad incluso en entornos sin supervisión técnica.
 
-## 🧾 Resultado
+<hr />
+
+##  Resultado
 
 El sistema consigue que cada nuevo pedido se imprima al instante, con los datos del cliente, los productos seleccionados y la hora del pedido. Todo sin necesidad de refrescar páginas ni tocar un solo botón.
 
 La panadería ha logrado reducir el tiempo de atención, mejorar la organización y mantener una trazabilidad clara de cada pedido.
 
-## 🚀 Lo que aprendí
+<hr />
+
+##  Lo que aprendí
 
 Este proyecto me permitió profundizar en temas como:
 
