@@ -5,6 +5,9 @@ import { highlight } from 'sugar-high'
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
     ...components,
+    hr: () => (
+      <hr className="my-10 h-px w-full border-0 bg-zinc-200/80 dark:bg-zinc-800/80" />
+    ),
     Cover: ({
       src,
       alt,
